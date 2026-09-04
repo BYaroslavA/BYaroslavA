@@ -16,30 +16,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-```yaml
-name: Yaroslav Bortnik
-username: BYaroslavA
-role: Developer
-focus:
-  - Backend Development
-  - Frontend Development
-  - Java
-  - Databases
-  - Linux
-  - Networking
-
-currently_learning:
-  - Java & OOP
-  - React
-  - Node.js
-  - SQL
-  - Linux
-
-goal: Build useful and interesting projects 🚀
-```
-
 ---
 
 ## 🛠️ Tech Stack
