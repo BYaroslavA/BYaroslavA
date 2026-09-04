@@ -47,7 +47,7 @@ goal: Build useful and interesting projects 🚀
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,cs,js" />
+  <p> <img src="https://skillicons.dev/icons?i=java,cpp,cs,js,ts,python" /> </p>
 </p>
 
 ### 🌐 Web Development
