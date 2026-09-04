@@ -33,7 +33,7 @@
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,dbeaver" />
 </p>
 
 ### ⚙️ Tools & Technologies
