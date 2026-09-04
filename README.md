@@ -70,45 +70,6 @@ goal: Build useful and interesting projects 🚀
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎮 4epuha Esports
-
-An esports-oriented web project with information about teams, players and competitive gaming.
-
-**Technologies:**
-
-`HTML` `CSS` `JavaScript`
-
----
-
-### ☕ Java Projects
-
-Educational and personal Java projects focused on:
-
-* Object-Oriented Programming
-* Classes & Interfaces
-* Inheritance
-* Polymorphism
-* Exceptions
-* Collections
-* File handling
-
-**Technologies:**
-
-`Java` `OOP` `Git`
-
----
-
-### 🌐 Web Development
-
-A collection of frontend and backend projects built while learning modern web technologies.
-
-**Technologies:**
-
-`React` `JavaScript` `Node.js` `CSS` `SQL`
-
----
 
 ## 📊 GitHub Statistics
 
