@@ -127,34 +127,6 @@ A collection of frontend and backend projects built while learning modern web te
 
 ---
 
-## 📈 My Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BYaroslavA&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BYaroslavA/BYaroslavA/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 🎯 2026 Goals
-
-* [ ] 🚀 Build more real-world projects
-* [ ] ☕ Improve Java & OOP skills
-* [ ] ⚛️ Become better at React
-* [ ] 🟢 Improve Node.js skills
-* [ ] 🗄️ Deepen SQL knowledge
-* [ ] 🐧 Improve Linux skills
-* [ ] 🌐 Learn more about networking
-* [ ] 💼 Start working on freelance projects
-
----
 
 ## 💡 What I Like
 
